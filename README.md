@@ -4,7 +4,7 @@
 			<div class="content-inner">
 				<h2>Magento 2 Product Tabs Extension</h2>
 				<p>Using <strong><a href="https://www.mageants.com/product-tabs-for-magento-2.html">Magento 2 Product Tabs Extension</a></strong> the store owner can make shopping easy for the customers. They are allowed to get additional information very easily and quickly. This is the best way to save time and get effective results effortless. Store owners get help by maximizing their purchases with this user-friendly tool.</p>
-				<p>Magento 2 Store Pickup Extension helps the store owner increase the shopping convenience for the customers, which in turn helps boost sales. The plugin is very useful as it makes shipping and delivery more easily by choosing a convenient pickup location.</p>
+				<p>MMagento 2 Product Tabs module is the best way to boost your sales as customers will get all the important information about the product very easily.</p>
 				<div class="features-wrapper">
 					<h3>Key Features</h3>
 					<ul>
